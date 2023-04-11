@@ -1,3 +1,3 @@
 quiz with react.js
 
-![image](https://user-images.githubusercontent.com/114576496/231279617-94e2126a-3292-44f6-a3e4-4818cc1e727f.png)
+![quiz_gif](https://user-images.githubusercontent.com/114576496/231283993-3fd310d3-cdac-425c-a488-c8c1cd1a76d9.gif)
